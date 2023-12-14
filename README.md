@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning C#, OOP, LINQ, Unity, Git and some adobe programs
+- 🌱 I’m currently learning C#, OOP, LINQ, Unity, Git and some Adobe programs
 
 - 👯 I’m looking to collaborate on game projects
 - 💬 Ask me about GameDev
