@@ -20,17 +20,32 @@
 
 </div>
 
-- 🔭 I’m currently working on my portfolio
+<h1 align="center">🔭 Portfolio and Game Design</h1>
 
-- 🔭 I'm currently studying Game Design and 3D animation/Visual Effects in my 3rd year.
+<p align="center">
+  <img src="your_image_url.jpg" alt="Your Portfolio Image">
+</p>
 
-- 🌱 I’m currently learning C#, OOP, LINQ, Unity, Git and some Adobe programs
+<p align="center">
+  🎓 Studying Game Design and 3D Animation/Visual Effects in my 3rd year.
+</p>
 
-- 👯 I’m looking to collaborate on game projects
-  
-- 💬 Ask me about GameDev
-  
-- ⚡ Fun fact: In the game "The Sims," the characters speak a language that doesn't actually exist, but it's called "Simlish." Developers used a combination of various sounds and gestures to create a unique and amusing language for the characters.
+<p align="center">
+  🌱 Learning C#, OOP, LINQ, Unity, Git, and Adobe programs.
+</p>
+
+<p align="center">
+  👯 Looking to collaborate on exciting game projects.
+</p>
+
+<p align="center">
+  💬 Ask me about GameDev.
+</p>
+
+<p align="center">
+  ⚡ Fun fact: In "The Sims," characters speak Simlish, a fictional language created by combining various sounds and gestures.
+</p>
+
 
 #
 
