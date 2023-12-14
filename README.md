@@ -7,7 +7,7 @@
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ваша_электронная_почта@example.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/ваш_логин_Telegram)
+  [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Zi0on)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](ссылка_на_ваш_профиль_LinkedIn)
 
 </div>
