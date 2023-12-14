@@ -2,7 +2,6 @@
 
 ## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
 
-### <p align="center">Contact me:</p>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; background-color: #282c34; padding: 20px; border-radius: 10px;">
 
