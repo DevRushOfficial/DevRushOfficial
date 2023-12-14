@@ -1,4 +1,5 @@
-# <p align="center">![Vanilla-1 8s-262px(4)](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/1feedbc6-811a-4278-8cb9-8d807ce6272c)
+# <p align="center">![Vanilla-1 8s-262px(5)](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/6a9704da-77e9-4475-ae2d-e8de3bc88eba)
+
 </p>
 
 
