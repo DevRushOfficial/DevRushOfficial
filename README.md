@@ -1,4 +1,4 @@
-# <p align="center">![Vanilla-1 8s-262px](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/5319d8c6-d5b4-4df9-be2b-33bd3d9c0c46)</p>
+# <p align="center">![Vanilla-1 8s-262px(1)](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/4c6b5ec5-ce29-440b-8152-4975ff5869ea)</p>
 
 
 ## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
