@@ -1,7 +1,12 @@
-### <p align="center">Hi there 👋</p>
+### <p align="center">Welcome to my profile!</p>
 
-<!--
-**DevRushOfficial/DevRushOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <p align="center">Unity Game Developer from Wroclaw</p>
+
+### Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/artem-melnykov-376b92282)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](artemmelnykov29@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)]([ссылка_на_ваш_канал_Telegram](https://t.me/Zi0on))
 
 Here are some ideas to get you started:
 
