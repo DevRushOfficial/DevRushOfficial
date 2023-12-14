@@ -4,21 +4,22 @@
 
 ### <p align="center">Contact me:</p>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
 
-  <a href="mailto:artemmelnykov29@gmail.com" style="text-decoration: none; color: white; padding: 15px; background-color: #0077B5; border-radius: 10px; margin: 10px;">
-    <strong>Email</strong>
+  <a href="mailto:artemmelnykov29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email">
   </a>
 
-  <a href="https://t.me/Zi0on" style="text-decoration: none; color: white; padding: 15px; background-color: #0077B5; border-radius: 10px; margin: 10px;">
-    <strong>Telegram</strong>
+  <a href="https://t.me/Zi0on">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=flat-square&logo=telegram" alt="Telegram">
   </a>
 
-  <a href="https://www.linkedin.com/in/artem-melnykov-376b92282" style="text-decoration: none; color: white; padding: 15px; background-color: #0077B5; border-radius: 10px; margin: 10px;">
-    <strong>LinkedIn</strong>
+  <a href="https://www.linkedin.com/in/artem-melnykov-376b92282">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 
 </div>
+
 
 
 
