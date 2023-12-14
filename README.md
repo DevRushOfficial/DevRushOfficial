@@ -4,9 +4,21 @@
 
 ### <p align="center">Contact me:</p>
 
-- [Email](mailto:ваша_электронная_почта@example.com) — для быстрой связи по электронной почте
-- [Telegram](https://t.me/ваш_логин_Telegram) — для быстрой личной связи
-- [LinkedIn](ссылка_на_ваш_профиль_LinkedIn) — для связи и делового общения
+<div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+
+  <a href="artemmelnykov29@gmail.com" style="text-decoration: none; color: white; padding: 10px; background-color: #FF5733; border-radius: 5px;">
+    <strong>Email</strong>
+  </a>
+
+  <a href="https://t.me/Zi0on" style="text-decoration: none; color: white; padding: 10px; background-color: #0088cc; border-radius: 5px;">
+    <strong>Telegram</strong>
+  </a>
+
+  <a href=" linkedin.com/in/artem-melnykov-376b92282" style="text-decoration: none; color: white; padding: 10px; background-color: #0077B5; border-radius: 5px;">
+    <strong>LinkedIn</strong>
+  </a>
+
+</div>
 
 Here are some ideas to get you started:
 
