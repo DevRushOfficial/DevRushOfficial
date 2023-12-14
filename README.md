@@ -1,10 +1,9 @@
 ![Vanilla Image](https://github.com/DevRushOfficial/DevRushOfficial/blob/assets/119656956/fe8a1612-4969-49fd-98b4-6f4344160f8c/Vanilla-1.8s-262px.svg)
+![Uploading Vanilla-1.8s-262px.svg…]()
 
 <p align="center">
   <img src="URL_TO_SVG_FILE" width="262" height="120" alt="SVG Image">
 </p>
-
-
 
 ## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
 
