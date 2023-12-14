@@ -3,27 +3,23 @@
 ## <p align="center">Unity Game Developer from Wroclaw</p>
 
 ### <p align="center">Contact me:</p>
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
-  <h3>Свяжитесь со мной:</h3>
+<div style="display: flex; justify-content: center;">
 
-  <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+  <a href="mailto:ваша_электронная_почта@example.com" style="text-decoration: none; color: white; padding: 10px; background-color: #FF5733; border-radius: 5px; margin: 5px;">
+    <strong>Email</strong>
+  </a>
 
-    <a href="mailto:ваша_электронная_почта@example.com" style="text-decoration: none; color: white; padding: 10px; background-color: #FF5733; border-radius: 5px;">
-      <strong>Email</strong>
-    </a>
+  <a href="https://t.me/ваш_логин_Telegram" style="text-decoration: none; color: white; padding: 10px; background-color: #0088cc; border-radius: 5px; margin: 5px;">
+    <strong>Telegram</strong>
+  </a>
 
-    <a href="https://t.me/ваш_логин_Telegram" style="text-decoration: none; color: white; padding: 10px; background-color: #0088cc; border-radius: 5px;">
-      <strong>Telegram</strong>
-    </a>
-
-    <a href="ссылка_на_ваш_профиль_LinkedIn" style="text-decoration: none; color: white; padding: 10px; background-color: #0077B5; border-radius: 5px;">
-      <strong>LinkedIn</strong>
-    </a>
-
-  </div>
+  <a href="ссылка_на_ваш_профиль_LinkedIn" style="text-decoration: none; color: white; padding: 10px; background-color: #0077B5; border-radius: 5px; margin: 5px;">
+    <strong>LinkedIn</strong>
+  </a>
 
 </div>
+
 
 Here are some ideas to get you started:
 
