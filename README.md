@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/artem-melnykov-376b92282)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](artemmelnykov29@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)]([ссылка_на_ваш_канал_Telegram](https://t.me/Zi0on))
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Zi0on)
 
 Here are some ideas to get you started:
 
