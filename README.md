@@ -4,9 +4,9 @@
 
 ### <p align="center">Contact me:</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/artem-melnykov-376b92282)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](artemmelnykov29@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Zi0on)
+- [Email](mailto:ваша_электронная_почта@example.com) — для быстрой связи по электронной почте
+- [Telegram](https://t.me/ваш_логин_Telegram) — для быстрой личной связи
+- [LinkedIn](ссылка_на_ваш_профиль_LinkedIn) — для связи и делового общения
 
 Here are some ideas to get you started:
 
