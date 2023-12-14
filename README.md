@@ -22,8 +22,12 @@
 
 - 🔭 I’m currently working on my portfolio
 
+- 🔭 I'm currently studying Game Design and 3D animation/Visual Effects in my 3rd year.
+
 - 🌱 I’m currently learning C#, OOP, LINQ, Unity, Git and some Adobe programs
 
 - 👯 I’m looking to collaborate on game projects
+  
 - 💬 Ask me about GameDev
+  
 - ⚡ Fun fact: In the game "The Sims," the characters speak a language that doesn't actually exist, but it's called "Simlish." Developers used a combination of various sounds and gestures to create a unique and amusing language for the characters.
