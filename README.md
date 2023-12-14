@@ -31,6 +31,7 @@
   
 - ⚡ Fun fact: In the game "The Sims," the characters speak a language that doesn't actually exist, but it's called "Simlish." Developers used a combination of various sounds and gestures to create a unique and amusing language for the characters.
 
+#
 
 <h3 align="center">Languages and Tools:</h3>
 
