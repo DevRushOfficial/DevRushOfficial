@@ -1,4 +1,4 @@
-<p align="center"><?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; display: block; shape-rendering: auto; background: none;" width="262" height="120" preserveAspectRatio="xMidYMid">
 <style type="text/css">
   text {
@@ -16,8 +16,8 @@
   50.25% { opacity: 0; }
   99.5% { opacity: 0; }
   100% { opacity: 1; }
-}</style></svg>![Vanilla-1 8s-262px](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/78b49bf5-0a7b-4296-8963-68c8fa216858)
-</p>
+}</style></svg>
+![Vanilla-1 8s-262px](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/006c00a8-37bc-43f0-9e92-5d7e83808a52)
 
 ## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
 
