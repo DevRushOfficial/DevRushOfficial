@@ -1,5 +1,5 @@
-<p align="center">![Vanilla Image](Vanilla-1.8s-262px.svg)
-</p>
+![Vanilla Image](Vanilla-1.8s-262px.svg)
+
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; background-color: #282c34; padding: 20px; border-radius: 10px;">
 
