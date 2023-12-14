@@ -20,7 +20,7 @@
 
 </div>
 
-№
+#
 
 - 🔭 I’m currently working on my portfolio
 
