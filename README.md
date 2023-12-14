@@ -1,6 +1,6 @@
 # <p align="center">Welcome to my profile!</p>
 
-## <p align="center">Unity Game Developer from Wroclaw</p>
+## <p align="center">A passionate Unity Game Developer from Wroclaw</p>
 
 ### <p align="center">Contact me:</p>
 
