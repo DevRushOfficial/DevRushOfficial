@@ -1,4 +1,4 @@
-![Vanilla Image](./path/to/Vanilla-1.8s-262px.svg)
+![Vanilla Image](Vanilla-1.8s-262px.svg)
 
 ## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
 
