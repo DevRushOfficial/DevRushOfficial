@@ -58,7 +58,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://placekitten.com/40/40" alt="Adobe After Effects" width="40" height="40"/>
+    <img src="https://www.placekitten.com/40/40" alt="Adobe After Effects" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/>
@@ -67,4 +67,5 @@
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
   </a>
 </p>
+
 
