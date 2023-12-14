@@ -4,21 +4,15 @@
 
 ### <p align="center">Contact me:</p>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
 
-  <a href="mailto:ваша_электронная_почта@example.com" style="text-decoration: none; color: white; padding: 10px; background-color: #FF5733; border-radius: 5px; margin: 5px;">
-    <strong>Email</strong>
-  </a>
-
-  <a href="https://t.me/ваш_логин_Telegram" style="text-decoration: none; color: white; padding: 10px; background-color: #0088cc; border-radius: 5px; margin: 5px;">
-    <strong>Telegram</strong>
-  </a>
-
-  <a href="ссылка_на_ваш_профиль_LinkedIn" style="text-decoration: none; color: white; padding: 10px; background-color: #0077B5; border-radius: 5px; margin: 5px;">
-    <strong>LinkedIn</strong>
-  </a>
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ваша_электронная_почта@example.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/ваш_логин_Telegram)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](ссылка_на_ваш_профиль_LinkedIn)
 
 </div>
+
+
 
 
 Here are some ideas to get you started:
