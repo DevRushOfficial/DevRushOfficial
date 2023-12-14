@@ -1,7 +1,6 @@
 # <p align="center">Welcome to my profile!</p>
 
-## <p align="center">A passionate Unity Game Developer from Wroclaw![POL_Wroclaw_flag svg](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/464b1a7a-8b1d-49a1-96ce-47c42abf24b9)
-</p>
+## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
 
 ### <p align="center">Contact me:</p>
 
