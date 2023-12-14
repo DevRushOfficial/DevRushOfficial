@@ -2,9 +2,9 @@
 
 ## <p align="center">Unity Game Developer from Wroclaw</p>
 
-### Contact me:
+### <p align="center">Contact me:</p>
 
-<p align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/artem-melnykov-376b92282)</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/artem-melnykov-376b92282)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](artemmelnykov29@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)]([ссылка_на_ваш_канал_Telegram](https://t.me/Zi0on))
 
