@@ -1,4 +1,5 @@
-# ![Vanilla-1 8s-286px(1)](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/c6757261-fb8d-4894-819c-5c1cfb2e34ba)
+# ![Vanilla-1 8s-286px(2)](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/45730cac-e66d-43e5-84f9-c53602bdd1d9)
+
 
 
 
