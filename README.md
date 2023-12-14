@@ -1,4 +1,5 @@
-# <p align="center">Welcome to my profile!</p>
+# ![Vanilla-1 8s-286px](https://github.com/DevRushOfficial/DevRushOfficial/assets/119656956/8b8f67c5-a3bb-48ca-a1ea-c11c552dab49)
+
 
 ## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
 
