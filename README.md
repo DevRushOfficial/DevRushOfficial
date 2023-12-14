@@ -20,6 +20,8 @@
 
 </div>
 
+№
+
 <h1 align="center">🔭 Portfolio and Game Design</h1>
 
 <p align="center">
@@ -45,7 +47,6 @@
 <p align="center">
   ⚡ Fun fact: In "The Sims," characters speak Simlish, a fictional language created by combining various sounds and gestures.
 </p>
-
 
 #
 
