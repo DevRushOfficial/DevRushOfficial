@@ -14,9 +14,8 @@
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=flat-square&logo=telegram" alt="Telegram">
   </a>
 
-  <a href="https://www.linkedin.com/in/artem-melnykov-376b92282" style="text-decoration: none; color: #61dafb; padding: 15px; background-color: #1f3641; border-radius: 10px; margin: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
+<a href="https://linkedin.com/in/linkedin.com/in/artem-melnykov-376b92282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/artem-melnykov-376b92282" height="30" width="40" /></a>
+</p>
 
 </div>
 
