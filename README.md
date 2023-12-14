@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ваша_электронная_почта@example.com)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](artemmelnykov29@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Zi0on)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](ссылка_на_ваш_профиль_LinkedIn)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]( linkedin.com/in/artem-melnykov-376b92282)
 
 </div>
 
