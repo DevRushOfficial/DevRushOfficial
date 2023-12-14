@@ -26,6 +26,4 @@
 
 - 👯 I’m looking to collaborate on game projects
 - 💬 Ask me about GameDev
-- 📫 How to reach me: 
 - ⚡ Fun fact: ...
--->
