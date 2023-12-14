@@ -1,8 +1,5 @@
 <p align="center">![Vanilla Image](Vanilla-1.8s-262px.svg)</p>
 
-## <p align="center">A passionate Unity Game Developer from Wroclaw 🇵🇱 </p>
-
-
 <div align="center" style="display: flex; flex-direction: column; align-items: center; background-color: #282c34; padding: 20px; border-radius: 10px;">
 
   <a href="mailto:artemmelnykov29@gmail.com" style="text-decoration: none; color: #61dafb; padding: 15px; background-color: #1f3641; border-radius: 10px; margin: 10px;">
